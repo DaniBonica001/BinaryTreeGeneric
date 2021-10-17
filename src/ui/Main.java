@@ -6,6 +6,13 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * Seguimiento realizado por:
+		 * Juan Felipe Sinisterra
+		 * Daniela Bonilla
+		 * Tomas Ossa
+		 */
+		
 		BinaryTree<Integer> tree = new BinaryTree<>();
 		tree.createNode(70);
 		tree.createNode(66);
