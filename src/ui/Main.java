@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		BinaryTree<Integer> tree = new BinaryTree<Integer>();
+		BinaryTree<Integer> tree = new BinaryTree<>();
 		tree.createNode(70);
 		tree.createNode(66);
 		tree.createNode(95);

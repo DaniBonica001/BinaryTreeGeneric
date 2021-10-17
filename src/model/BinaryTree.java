@@ -81,8 +81,7 @@ public class BinaryTree<T extends Comparable<T>> {
 		
 		return findNode;		
 	}
-	
-	
+
 	public TreeNode<T> deleteNode (TreeNode<T> root, T delete) {		
 		if(root == null) {// Caso base
 			return root;
